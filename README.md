@@ -18,6 +18,7 @@
 
 # Dependencies and Installation
 <p>To install the Gemini Pro Pdf Chatbot, please follow these steps:</p>
+
 1. Clone the repository to your local machine.<br>
 
 2. Install the required dependencies by running the following command:
