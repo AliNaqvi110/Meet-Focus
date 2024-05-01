@@ -18,7 +18,8 @@
 
 # Dependencies and Installation
 <p>To install the Gemini Pro Pdf Chatbot, please follow these steps:</p>
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine.<br>
+
 2. Install the required dependencies by running the following command:
 
     ```
@@ -33,18 +34,6 @@
 
 4. Setup your AWS Configuration in your local environment.
 
-
-2. Install the required dependencies by running the following command:
-
-    ```
-    pip install -r requirements.txt
-    ```
-
-3. Obtain an API key from OpenAI and add it to the `.env` file in the project directory.
-
-    ```shell
-    OPENAI_API_KEY=your_secret_api_key
-    ```
 
 ## Usage
 
